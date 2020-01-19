@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="590f117b-44b6-4072-a504-0edf35fad020" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/ListE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/ListE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Maine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/Maine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Mapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/Mapa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Proper/PropertiesExample.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/proper/PropertiesExample.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Proper/PropertiesExample_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/proper/PropertiesExample_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Proper/PropertiesExample_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/proper/PropertiesExample_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Proper/dot/jag/collection/CollectionProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Que.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/Que.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/TipizCol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/TipizCol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/sortedS/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/sortedS/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/sortedS2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection2/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/sortedS2/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/listOperation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection3/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection3/MyClassComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/listOperation/MyClassComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection3/MyClassCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/listOperation/MyClassCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/comparator/FieldComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/comparator/FieldComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/comparator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/comparator/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/comparator/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/Enterprise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/Enterprise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/TaxPayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/TaxPayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/storage/TaxPayerStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/storage/TaxPayerStorage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +77,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Que" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsAll.Que" />
+      <option name="MAIN_CLASS_NAME" value="collectionsExamples.Que" />
       <module name="gitExEE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionsAll.*" />
+          <option name="PATTERN" value="collectionsExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,11 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Queue" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -94,6 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579391925683</updated>
       <workItem from="1579391927690" duration="3975000" />
+      <workItem from="1579423482056" duration="993000" />
     </task>
     <servers />
   </component>
@@ -137,5 +157,9 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="283" y="238" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.689@0.0.1280.689" timestamp="1579393891737" />
+    <state x="279" y="114" key="extract.method.dialog" timestamp="1579423676927">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="279" y="114" key="extract.method.dialog/0.0.1280.689@0.0.1280.689" timestamp="1579423676927" />
   </component>
 </project>
