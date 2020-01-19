@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="590f117b-44b6-4072-a504-0edf35fad020" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_enterprise_concurrent_javax_enterprise_concurrent_api_1_0_b01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_directory_studio_org_slf4j_api_1_6_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/ListE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/ListE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Maine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/Maine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Mapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/Mapa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Proper/PropertiesExample.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/proper/PropertiesExample.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Proper/PropertiesExample_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/proper/PropertiesExample_en.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Proper/PropertiesExample_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/proper/PropertiesExample_ru.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Proper/dot/jag/collection/CollectionProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/Que.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/Que.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/TipizCol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/TipizCol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/sortedS/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/sortedS/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/sortedS2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection2/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/sortedS2/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/listOperation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection3/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection3/MyClassComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/listOperation/MyClassComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/collection3/MyClassCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/listOperation/MyClassCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/comparator/FieldComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/comparator/FieldComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/comparator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/comparator/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/comparator/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/Enterprise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/Enterprise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/TaxPayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/TaxPayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsAll/taxpayer/storage/TaxPayerStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExamples/taxpayer/storage/TaxPayerStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design examplesREADME.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitExEE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gitExEE.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -57,22 +38,29 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2045977" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Other.BasicSecurity.src.java.edu.gs.security" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\blino\IdeaProjects\gitExEE\src\Concurrency\edu\managed-scheduled-executor-service" />
+      <recent name="C:\Users\blino\IdeaProjects\gitExEE\src\Concurrency\edu" />
+      <recent name="C:\Users\blino\IdeaProjects\gitExEE\src\Concurrency" />
+      <recent name="C:\Users\blino\IdeaProjects\gitExEE\src\Concurrency\managed-executorService" />
       <recent name="C:\Users\blino\IdeaProjects\gitExEE" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\blino\IdeaProjects\gitExEE\src" />
-      <recent name="C:\Users\blino\IdeaProjects\gitExEE\src\Collections" />
-      <recent name="C:\Users\blino\IdeaProjects\gitExEE\src\taxpayer" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Concurrency.context-service.src.main.java.edu.javacourse.concurrency" />
+      <recent name="Other.BasicSecurity.src.java.edu.gs.security" />
     </key>
   </component>
   <component name="RunManager">
@@ -114,6 +102,7 @@
       <updated>1579391925683</updated>
       <workItem from="1579391927690" duration="3975000" />
       <workItem from="1579423482056" duration="993000" />
+      <workItem from="1579447276816" duration="1543000" />
     </task>
     <servers />
   </component>
@@ -133,10 +122,14 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="379" y="55" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.689@0.0.1280.689" timestamp="1579393818772" />
-    <state x="346" y="244" width="404" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579393370887">
+    <state x="346" y="244" width="672" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579447930119">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="346" y="244" width="404" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689@0.0.1280.689" timestamp="1579393370887" />
+    <state x="346" y="244" width="672" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689@0.0.1280.689" timestamp="1579447930119" />
+    <state x="279" y="106" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579448774420">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="279" y="106" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1579448774420" />
     <state x="279" y="106" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1579394575500">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -149,14 +142,14 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="329" y="114" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1579393830553" />
-    <state x="29" y="0" key="SettingsEditor" timestamp="1579395903504">
+    <state x="29" y="0" key="SettingsEditor" timestamp="1579448399286">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="29" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1579395903504" />
-    <state x="283" y="238" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579393891737">
+    <state x="29" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1579448399286" />
+    <state x="283" y="238" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579448394877">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="283" y="238" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.689@0.0.1280.689" timestamp="1579393891737" />
+    <state x="283" y="238" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.689@0.0.1280.689" timestamp="1579448394877" />
     <state x="279" y="114" key="extract.method.dialog" timestamp="1579423676927">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
