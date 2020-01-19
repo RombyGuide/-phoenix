@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="590f117b-44b6-4072-a504-0edf35fad020" name="Default Changelist" comment="" />
+    <list default="true" id="590f117b-44b6-4072-a504-0edf35fad020" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Web" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Wae2SPChflPAmvkf4RI8RKDyUx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +38,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2045977" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -89,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579391925683</updated>
-      <workItem from="1579391927690" duration="3631000" />
+      <workItem from="1579391927690" duration="3975000" />
     </task>
     <servers />
   </component>
@@ -125,10 +129,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="329" y="114" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1579393830553" />
-    <state x="29" y="0" key="SettingsEditor" timestamp="1579393898208">
+    <state x="29" y="0" key="SettingsEditor" timestamp="1579395903504">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="29" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1579393898208" />
+    <state x="29" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1579395903504" />
     <state x="283" y="238" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579393891737">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
